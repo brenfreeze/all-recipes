@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2,
+    "name": "Gordon Ramsay",
+    "email": "gordon.ramsay@example.com",
+    "title": "Beef Wellington",
+    "instructions": "Wrap beef fillet in puff pastry with mushroom duxelles. Bake until golden.",
+    "image": "http://localhost:3000/uploads/846a25881a67fd8648dd83204.jpg",
+    "starred": true,
+    "createdAt": "2023-02-01T12:00:00Z",
+    "description": "Elegant and flavorful dish",
+    "ingredients": "beef fillet, puff pastry, mushrooms"
+  },
+  {
+    "id": 4,
+    "name": "Ina Garten",
+    "email": "ina.garten@example.com",
+    "title": "Lemon Roasted Chicken",
+    "instructions": "Marinate chicken in lemon, garlic, herbs. Roast until golden brown.",
+    "image": "http://localhost:3000/uploads/846a25881a67fd8648dd83204.jpg",
+    "starred": false,
+    "createdAt": "2023-04-01T12:00:00Z",
+    "description": "Bright and flavorful roasted chicken",
+    "ingredients": "chicken, lemon, garlic, herbs"
+  },
+  {
+    "id": 5,
+    "name": "Bobby Flay",
+    "email": "bobby.flay@example.com",
+    "title": "Grilled Salmon with Mango Salsa",
+    "instructions": "Season salmon, grill until cooked. Top with mango salsa.",
+    "image": "http://localhost:3000/uploads/846a25881a67fd8648dd83204.jpg",
+    "starred": true,
+    "createdAt": "2023-05-01T12:00:00Z",
+    "description": "Fresh and tropical seafood dish",
+    "ingredients": "salmon, mango, red onion, cilantro"
+  },
+  {
+    "id": "18",
+    "createdAt": 1723977231660,
+    "name": "Bren",
+    "email": "brenfreeze@gmail.com",
+    "title": "Egg 3",
+    "image": "http://localhost:3000/uploads/846a25881a67fd8648dd83203.jpg",
+    "description": "iz egg omlet",
+    "ingredients": "1 egg\n1 oil",
+    "instructions": "put oil\nput egg\nfry",
+    "starred": false
+  },
+  {
+    "id": "19",
+    "createdAt": 1724076591482,
+    "name": "Bren Aviador",
+    "email": "brenfreeze@gmail.com",
+    "title": "Filipino Spaghetti",
+    "image": "http://localhost:3000/uploads/846a25881a67fd8648dd83204.jpg",
+    "description": "Filipino Spaghetti is the Pinoy version of Spaghetti with meat sauce. This version has a sweet tomato based sauce with lots of meat ingredients such as ground pork, luncheon meat, and hotdogs. It is often served during kid’s birthday parties along with some yummy fried chicken and cake.\n\ntesting",
+    "ingredients": "▢2 lbs. Spaghetti noodles\n▢1 lb. ground pork\n▢6 ounces luncheon meat minced\n▢4 pieces hotdogs or beef franks\n▢35 ounces Filipino Style Spaghetti Sauce\n▢1/2 cup shredded cheddar cheese\n▢1 1/2 cups beef broth\n▢1 medium onion minced\n▢1 teaspoon minced garlic\n▢Salt and pepper to taste\n▢3 tablespoons cooking oil",
+    "instructions": "Cook the Spaghetti noodles according to package instructions. Once cooked, transfer to a bowl. Set aside.\nHeat the oil in a Pan.\nSaute the onion and garlic.\nOnce the onions becomes soft, add the ground pork. Cook until the color turns light brown.\nAdd the luncheon meat and hotdog. Stir and cook for 2 to 3 minutes.\nPour-in the Spaghetti sauce and beef broth. Stir and let boil. Cover and simmer for 30 minutes.\nTry to taste the sauce and add salt and pepper if needed.\nPour the Filipino Style Spaghetti sauce over the Spaghetti. Top with shredded cheese.\nServe. Share and enjoy!",
+    "starred": false
+  },
+  {
+    "id": "21",
+    "createdAt": 1724076783781,
+    "name": "Bren Aviador",
+    "email": "brenfreeze@gmail.com",
+    "title": "Halo halo",
+    "image": "http://localhost:3000/uploads/846a25881a67fd8648dd83208.jpg",
+    "description": "Halo-halo is a famous dessert in the Philippines. It is composed of various ingredients that are all mixed together, along with shaved ice and evaporated milk.\nSome of he common ingredient used to make Halo-halo are sugar palm (kaong), boiled kidney beans, flat rice crisps (pinipig), coconut gel (nata de coco), ripe jackfruit, colored gelatin, tapioca pearls, sweetened plantains, and macapuno.\n\n",
+    "ingredients": "Halo-halo is a famous dessert in the Philippines. It is composed of various ingredients that are all mixed together, along with shaved ice and evaporated milk.\nSome of he common ingredient used to make Halo-halo are sugar palm (kaong), boiled kidney beans, flat rice crisps (pinipig), coconut gel (nata de coco), ripe jackfruit, colored gelatin, tapioca pearls, sweetened plantains, and macapuno.\n\n",
+    "instructions": "Halo-halo is a famous dessert in the Philippines. It is composed of various ingredients that are all mixed together, along with shaved ice and evaporated milk.\nSome of he common ingredient used to make Halo-halo are sugar palm (kaong), boiled kidney beans, flat rice crisps (pinipig), coconut gel (nata de coco), ripe jackfruit, colored gelatin, tapioca pearls, sweetened plantains, and macapuno.\n\n",
+    "starred": false
+  },
+  {
+    "id": "67364296",
+    "createdAt": 1724074987435,
+    "name": "Bren Aviador",
+    "email": "test@example.com",
+    "title": "Ramyeon",
+    "image": "http://localhost:3000/uploads/78d45bce90957066569e17904.jpg",
+    "description": "qweqweqweqweqwe",
+    "ingredients": "qweqweqwe",
+    "instructions": "qweqweqwe",
+    "starred": true
+  }
+]
